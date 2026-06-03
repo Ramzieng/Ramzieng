@@ -66,7 +66,7 @@ Results-driven Senior Infrastructure Architect with 10+ years of experience desi
 
 ## 📊 GitHub Stats
 
-![Ramzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramzieng&show_icons=true&theme=dark&hide_border=true&v=1)
+![Ramzi's GitHub Stats](https://github-readme-stats-pink-gamma-71.vercel.app/api?username=Ramzieng&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
