@@ -4,11 +4,11 @@
 
 # Ramzi Saleh Alarasi
 
-### Senior Infrastructure Architect • Executive Manager • Founder
+### Senior Infrastructure Architect 
 
 ### Enterprise Cloud • Microsoft 365 • Hybrid Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=05B2A9&center=true&vCenter=true&width=900&lines=Microsoft+365+%26+Azure+Architecture;Complex+Tenant-to-Tenant+Migrations;Enterprise+Routing+%26+Security+(MikroTik%2FFortiMail);Business+Ecosystem+Automation+(Zoho+One);Cloud+Virtualization+%26+Hybrid+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=05B2A9&center=true&vCenter=true&width=900&lines=Microsoft+365+%26+Azure+Architecture;Complex+Tenant-to-Tenant+Migrations;Enterprise+Routing+%26+Security+(FortiMail & Symantec);Business+Ecosystem+Automation;Cloud+Virtualization+%26+Hybrid+Infrastructure" />
 
 <br/>
 
@@ -90,8 +90,6 @@
 
 | Role | Organization | Period |
 | :--- | :--- | :--- |
-| **Founder** | UFUQTECH | Apr 2026 – Present |
-| **Executive Manager** | Global Elite Company (GEC) | Apr 2026 – Present |
 | **Senior Infrastructure Engineer** | Nournet | Apr 2024 – Present |
 | **System Administrator** | Dallah Trane Manufacturing | Sep 2020 – Apr 2024 |
 | **System Administrator** | Telecare Company | Aug 2019 – Sep 2020 |
