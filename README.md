@@ -8,7 +8,7 @@
 
 ### Enterprise Cloud • Microsoft 365 • Hybrid Systems
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2200&color=05B2A9&center=true&vCenter=true&width=900&lines=Microsoft+365+%26+Azure+Architecture;Complex+Tenant-to-Tenant+Migrations;Enterprise+Routing+%26+Security+(FFortiMail);Business+Ecosystem+Automation;Cloud+Virtualization+%26+Hybrid+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2800&color=05B2A9&center=true&vCenter=true&width=900&lines=Microsoft+365+%26+Azure+Architecture;Complex+Tenant-to-Tenant+Migrations;Enterprise+Routing+%26+Security+(FortiMail);Business+Ecosystem+Automation;Cloud+Virtualization+%26+Hybrid+Infrastructure" />
 
 <br/>
 
